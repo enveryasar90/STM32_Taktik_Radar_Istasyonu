@@ -23,6 +23,10 @@ Projeyi gerçek bir STM32 kartı olmadan da dahili emülatör modu sayesinde do�
 *(Donanım bağlantısı için Chromium tabanlı Google Chrome, Microsoft Edge veya Opera önerilir).*
 
 ---
+## ✅​ STM32 Mavi Tuş ile Atış ve Led Göstergesi
+<p align="center">
+  <img src="media/stm32.gif" width="35%" alt="STM32 F446RE" />
+</p>
 
 ## ⚡ Sistem Özellikleri ve Çalışma Mantığı
 
